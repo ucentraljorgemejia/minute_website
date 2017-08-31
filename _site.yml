@@ -1,4 +1,4 @@
-name: "Create a simple Rmarkdown website"
+name: "My first web page for patent analytics"
 output:
   html_document:
     theme: cosmo
@@ -29,4 +29,6 @@ navbar:
           href: yourfile.html
     - text: "Resources"
       href: resources.html
+    - text: "Contact Jorge"
+      href: jorge.html
 output_dir: "."
